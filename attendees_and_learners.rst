@@ -333,4 +333,4 @@ I followed the tutorial online
 * Paul Jewell <paul@jidoka.org> July 2015 https://github.com/paul-jewell
 * Alexandro Perez - https://github.com/AlexandroPerez - 6th August 2015
 * Rahul bajaj - https://github.com/rahulbajaj0509 2015
-* Alejandro Suárez - https://github.com/alsuga 20th October 2015
+* Alejandroy Suárez - https://github.com/alsuga 20th October 2015
